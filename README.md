@@ -17,9 +17,11 @@
 ## 使い方
 
 1.  **D&D5E キャラクターデータベースからキャラクターシートをエクスポート:**
-    -    D&D総合コミュニティ　D&D5E キャラクターデータベース　（安定版） https://dndjp.sakura.ne.jp/LIST.php
+    -    D&D総合コミュニティ　D&D5E キャラクターデータベース　（安定版）
+            -    https://dndjp.sakura.ne.jp/LIST.php
           - キャラクターシートのIDを確認
-    -   D&D5Eプレイヤーキャラクター コマ作成  https://direboar.github.io/githubpage-test/dist/#/udonarium/playercharacter
+    -   D&D5Eプレイヤーキャラクター コマ作成
+          -   https://direboar.github.io/githubpage-test/dist/#/udonarium/playercharacter
           - キャラクターシートのURLを貼り付けコマ作成
     -   zipファイルの中にあるdata.xmlを使用します。
 
